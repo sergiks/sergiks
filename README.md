@@ -1,7 +1,6 @@
-#### Web, Video, API, Performance. I Love Unique Challenges!
+Hei, my name is Sergei Sokolov.
 
-
-Hei, my name is Sergei Sokolov. I develop software, play :guitar: &amp; :musical_keyboard: and film with a drone.
+I develop software, play :guitar: &amp; :musical_keyboard: and film with a drone.
 
 ## My stack highlights
 
