@@ -50,7 +50,10 @@ I develop software, play :guitar: &amp; :musical_keyboard: and film with a drone
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/blob/master/logos/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 
 
-For inquiries: Telegram [@sergiks](https://t.me/sergiks)
+For inquiries:
+
+* Telegram [@sergiks](https://t.me/sergiks)
+* hello@sergeisokolov.com
 
 
 
