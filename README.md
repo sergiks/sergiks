@@ -1,5 +1,3 @@
-### Hey :wave:
-
 I develop software, play :guitar: &amp; :musical_keyboard: and film with a drone.
 
 ## My stack highlights
